@@ -12,7 +12,7 @@
 
 <h3> Player Comparison: </h3> Compare the performance of different players within the team or across teams to highlight strengths, weaknesses, and areas for improvement.
 
-<h2> Technology User : </h2>  POWER BI 
+<h2> Technology Used : </h2>  POWER BI 
 
 <h2> Contributers</h2>
 
